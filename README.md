@@ -1,2 +1,2 @@
 # Fetal-Distress-Classification-based-on-Cardiotocography.
-Our solution is to develop a ML ( Machine Learning ) based system that will simplify this critical and tedious task to classify the stretch and spikes in graph.
+Our solution is to develop a ML ( Machine Learning ) based system that will simplify this critical and tedious task to classify the stretch and spikes in graph.The features obtained from large datasets are used as input to neural network and support vector machine to classify Fetal Heart Rate (FHR) patterns. FHR result is classified into three classes as normal, suspicious and pathological.
